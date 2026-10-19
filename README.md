@@ -1590,6 +1590,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
+- [Mortgage Tools by Jenny](https://jenny.mortgage/mortgage-tools/) `https://mcp.jenny.mortgage/mcp`
+  [![Mortgage Tools by Jenny MCP connector](https://glama.ai/mcp/connectors/mortgage.jenny/jenny-mortgage-tools/badges/score.svg)](https://glama.ai/mcp/connectors/mortgage.jenny/jenny-mortgage-tools)
+  🔓 - Canadian mortgage calculators in CAD: renewal offers, extra payments, break or stay, debt consolidation.
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
   🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
